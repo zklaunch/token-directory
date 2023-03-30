@@ -29,6 +29,12 @@
         "symbol": "DMUTE",
         "decimals": 18,
         "logo": "mute.png"
+    },
+    "0x959aB3394246669914BdDEAeB50f8Ac85648615e": {
+        "name": "zkLaunchpad",
+        "symbol": "ZKPAD",
+        "decimals": 18,
+        "logo": "zkpad.png"
     }
 }
 
